@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I write data science / machine learning programs.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a Master's Degree in I.T. from VTech.  I am a candidate of BrainStation Data Science Diploma program.  My specialty is in image recognition and computer vision.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[arvidyuen7@hotmail.com](mailto:arvidyuen7@hotmail.com)
