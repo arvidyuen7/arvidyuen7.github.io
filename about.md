@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I write data science / machine learning programs.
+I have a Master's Degree in I.T. from VTech.  I am a candidate of BrainStation Data Science Diploma program.  My specialty is in image recognition and computer vision.
 
 ### More Information
 
-I have a Master's Degree in I.T. from VTech.  I am a candidate of BrainStation Data Science Diploma program.  My specialty is in image recognition and computer vision.
+I write data science / machine learning programs.
 
 ### Contact me
 
